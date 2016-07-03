@@ -7,6 +7,6 @@ c:\users\zachary\documents\visual studio 2013\Projects\ElasticMigrator\ElasticMi
 c:\users\zachary\documents\visual studio 2013\Projects\ElasticMigrator\ElasticMigrator\bin\Debug\Elasticsearch.Net.xml
 c:\users\zachary\documents\visual studio 2013\Projects\ElasticMigrator\ElasticMigrator\bin\Debug\Nest.xml
 c:\users\zachary\documents\visual studio 2013\Projects\ElasticMigrator\ElasticMigrator\bin\Debug\Newtonsoft.Json.xml
-c:\users\zachary\documents\visual studio 2013\Projects\ElasticMigrator\ElasticMigrator\obj\Debug\ElasticMigrator.csprojResolveAssemblyReference.cache
 c:\users\zachary\documents\visual studio 2013\Projects\ElasticMigrator\ElasticMigrator\obj\Debug\ElasticMigrator.exe
 c:\users\zachary\documents\visual studio 2013\Projects\ElasticMigrator\ElasticMigrator\obj\Debug\ElasticMigrator.pdb
+C:\Users\Zachary\Documents\Visual Studio 2013\Projects\ElasticMigrator\ElasticMigrator\obj\Debug\ElasticMigrator.csprojResolveAssemblyReference.cache
